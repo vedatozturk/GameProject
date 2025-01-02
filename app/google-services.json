@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "64196908485",
+    "project_id": "oyunlar-c95f8",
+    "storage_bucket": "oyunlar-c95f8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64196908485:android:72eaf83e745c572c5a27ac",
+        "android_client_info": {
+          "package_name": "com.example.oyunlar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUVUklAuar1SnNpX2kWIzxlu6Zl0YghCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
